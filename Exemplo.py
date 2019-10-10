@@ -1,0 +1,5 @@
+print('Meu primeiro Programa ...')
+Num1 = float(input('Digite o numero1: '))
+Num2 = float(input('Digite o numero2: '))
+print ('O resultado de ', Num1, '+', Num2, 'é:', Num1+Num2)
+print ('Fim do Programa')
